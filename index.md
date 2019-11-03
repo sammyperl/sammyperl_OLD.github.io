@@ -35,34 +35,36 @@ eventdate = {2014-11-19},
 }
 
 **Insider Threat Defined: Discovering the Prototypical Case**
-@article{jowua14-5-2-01,
-author = {David A. Mundie and Samuel Perl and Carly Huth J.D.},
-title = {Insider Threat Defined: Discovering the Prototypical Case},
+Mundie, D. A., Perl, S. J., & Huth, C. L. (2014). Insider Threat Defined: Discovering the Prototypical Case. JoWUA, 5(2), 7-23.  
+
+@article{jowua14-5-2-01,  
+author = {David A. Mundie and Samuel Perl and Carly Huth J.D.},  
+title = {Insider Threat Defined: Discovering the Prototypical Case},  
 journal = {Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable
-Applications (JoWUA)},
-year = {2014},
-volume = {5},
-number = {2},
-pages = {7--23},
-month = {June},
-ee = {http://isyou.info/jowua/papers/jowua-v5n2-1.pdf}
-}
+Applications (JoWUA)},  
+year = {2014},  
+volume = {5},  
+number = {2},  
+pages = {7--23},  
+month = {June},  
+ee = {http://isyou.info/jowua/papers/jowua-v5n2-1.pdf}  
+}  
  
 **Toward an Ontology for Insider Threat Research: Varieties of Insider Threat Definitions**
-@INPROCEEDINGS{6691366,
-author={Mundie, D.A. and Perl, S. and Huth, C.L.},
-booktitle={Socio-Technical Aspects in Security and Trust (STAST), 2013 Third Workshop on},
-title={Toward an Ontology for Insider Threat Research: Varieties of Insider Threat Definitions},
-year={2013},
-month={June},
-pages={26-36},
-keywords={ontologies (artificial intelligence);security of data;conceptual model;insider threat definitions;insider threat research;ontology;Educational institutions;OWL;Ontologies;Organizations;Security;Software engineering;Taxonomy;insider; insider threat; definitions; taxonomies},
-doi={10.1109/STAST.2013.14},}
-2013 3rd International Workshop on Socio-Technical Aspects in Security and Trust (STAST) (2013)
-New Orleans, LA, USA
-June 29, 2013 to June 29, 2013
-ISBN: 978-0-7695-5065-7
-http://www.computer.org/csdl/proceedings/stast/2013/5065/00/index.html
+@INPROCEEDINGS{6691366,  
+author={Mundie, D.A. and Perl, S. and Huth, C.L.},  
+booktitle={Socio-Technical Aspects in Security and Trust (STAST), 2013 Third Workshop on},  
+title={Toward an Ontology for Insider Threat Research: Varieties of Insider Threat Definitions},  
+year={2013},  
+month={June},  
+pages={26-36},  
+keywords={ontologies (artificial intelligence);security of data;conceptual model;insider threat definitions;insider threat research;ontology;Educational institutions;OWL;Ontologies;Organizations;Security;Software engineering;Taxonomy;insider; insider threat; definitions; taxonomies},  
+doi={10.1109/STAST.2013.14},}  
+2013 3rd International Workshop on Socio-Technical Aspects in Security and Trust (STAST) (2013)  
+New Orleans, LA, USA  
+June 29, 2013 to June 29, 2013  
+ISBN: 978-0-7695-5065-7  
+http://www.computer.org/csdl/proceedings/stast/2013/5065/00/index.html  
 
 **Assurance for CyberSecurity with Assume-Guarantee Reasoning (accepted at UEMCON2019)**
 
