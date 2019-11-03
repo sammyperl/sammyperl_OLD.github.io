@@ -4,16 +4,16 @@ Publications I have had at Academic Workshops, Conferences, Journals, Magazine A
 
 ## Conference Proceedings
 
-**Data Mining for Efficient Collaborative Information Discovery**
+**Data Mining for Efficient Collaborative Information Discovery**  
 The 2nd ACM Workshop on Information Sharing and Collaborative Security (WISCS 2015) held in conjunction with ACM conference on Computer and Communication Security (CCS 2015).  
 WISCS'15, October 12, 2015, Denver, CO, USA    
 ISBN 978-1-4503-3822-6/15/10  
 DOI: http://dx.doi.org/10.1145/2808128.2808130  
 
-**[An Incident Management Ontology](http://ceur-ws.org/Vol-1304/STIDS2014_T09_MundieEtAl.pdf) - STIDS2014**
+**[An Incident Management Ontology](http://ceur-ws.org/Vol-1304/STIDS2014_T09_MundieEtAl.pdf) - STIDS2014**  
 Mundie, D. A., Ruefle, R., Dorofee, A. J., Perl, S. J., McCloud, J., & Collins, M. (2014). An Incident Management Ontology. In STIDS (pp. 62-71
 
-**[An Ontology for Insider Threat Indicators](https://apps.dtic.mil/dtic/tr/fulltext/u2/a615757.pdf) - STIDS 2014**
+**[An Ontology for Insider Threat Indicators](https://apps.dtic.mil/dtic/tr/fulltext/u2/a615757.pdf) - STIDS 2014**  
 Winner of the Mike Dean best paper award
 
 Costa, D. L., Collins, M. L., Perl, S. J., Albrethsen, M. J., Silowash, G. J., & Spooner, D. L. (2014). An ontology for insider threat indicators development and applications. CARNEGIE-MELLON UNIV PITTSBURGH PA SOFTWARE ENGINEERING INST.
