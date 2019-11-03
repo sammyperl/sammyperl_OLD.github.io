@@ -11,37 +11,27 @@ ISBN 978-1-4503-3822-6/15/10
 DOI: http://dx.doi.org/10.1145/2808128.2808130  
 
 **An Incident Management Ontology - STIDS2014**
-@inproceedings{MundieEtAl_STIDS2014,
-title = {An Incident Management Ontology},
-author = {David Mundie and Robin Ruefle and Audrey Dorofee and Samuel Perl and John McCloud and Matt Collins},
-pages = {62--71},
-url = {http://ceur-ws.org/Vol-1304/STIDS2014_T09_MundieEtAl.pdf},
-booktitle = {Proceedings of the Ninth Conference on Semantic Technologies for Intelligence, Defense, and Security (STIDS 2014)},
-year = 2014,
-editor = {Kathryn B. Laskey and Ian Emmons and Paulo C. G. Costa},
-volume = 1304,
-series = {CEUR Workshop Proceedings},
-issn = {1613-0073},
-address = {Fairfax, VA, USA},
-organization={George Mason University},
-eventdate = {2014-11-19},
+[Mundie, D. A., Ruefle, R., Dorofee, A. J., Perl, S. J., McCloud, J., & Collins, M. (2014). An Incident Management Ontology. In STIDS (pp. 62-71)](http://ceur-ws.org/Vol-1304/STIDS2014_T09_MundieEtAl.pdf)
 
 **An Ontology for Insider Threat Indicators - STIDS 2014**
 Winner of the Mike Dean best paper award
-@inproceedings{Costa_etal_STIDS2014,
-title = {An Ontology for Insider Threat Indicators},
-author = {Daniel Costa and Matthew Collins and Samuel Perl and Michael Albrethsen and George Silowash and Derrick Spooner},
-pages = {48--53},
-url = {http://ceur-ws.org/Vol-1304/STIDS2014_T07_CostaEtAl.pdf},
-booktitle = {Proceedings of the Ninth Conference on Semantic Technologies for Intelligence, Defense, and Security (STIDS 2014)},
-year = 2014,
-editor = {Kathryn B. Laskey and Ian Emmons and Paulo C. G. Costa},
-volume = 1304,
-series = {CEUR Workshop Proceedings},
-issn = {1613-0073},
-address = {Fairfax, VA, USA},
-organization={George Mason University},
-eventdate = {2014-11-19},
+
+[Costa, D. L., Collins, M. L., Perl, S. J., Albrethsen, M. J., Silowash, G. J., & Spooner, D. L. (2014). An ontology for insider threat indicators development and applications. CARNEGIE-MELLON UNIV PITTSBURGH PA SOFTWARE ENGINEERING INST.](https://apps.dtic.mil/dtic/tr/fulltext/u2/a615757.pdf)
+
+@inproceedings{Costa_etal_STIDS2014,  
+title = {An Ontology for Insider Threat Indicators},  
+author = {Daniel Costa and Matthew Collins and Samuel Perl and Michael Albrethsen and George Silowash and Derrick Spooner},  
+pages = {48--53},  
+url = {http://ceur-ws.org/Vol-1304/STIDS2014_T07_CostaEtAl.pdf},  
+booktitle = {Proceedings of the Ninth Conference on Semantic Technologies for Intelligence, Defense, and Security (STIDS 2014)},  
+year = 2014,  
+editor = {Kathryn B. Laskey and Ian Emmons and Paulo C. G. Costa},  
+volume = 1304,  
+series = {CEUR Workshop Proceedings},  
+issn = {1613-0073},  
+address = {Fairfax, VA, USA},  
+organization={George Mason University},  
+eventdate = {2014-11-19},  
 }
 
 **Insider Threat Defined: Discovering the Prototypical Case**
