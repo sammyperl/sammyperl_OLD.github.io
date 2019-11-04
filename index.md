@@ -1,6 +1,6 @@
 # Selected Publications
 - Moore, Andrew P., et al. The Critical Role of Positive Incentives for Reducing Insider Threats. No. CMU/SEI-2016-TR-014. CARNEGIE-MELLON UNIV PITTSBURGH PA PITTSBURGH United States, 2016.
-- Woods, Bronwyn, Samuel J. Perl, and Brian Lindauer. "Data mining for efficient collaborative information discovery." Proceedings of the 2nd ACM Workshop on Information Sharing and Collaborative Security. ACM, 2015.
+- Woods, Bronwyn, Samuel J. Perl, and Brian Lindauer. ["Data mining for efficient collaborative information discovery."](https://dl.acm.org/citation.cfm?doid=2808128.2808130) Proceedings of the 2nd ACM Workshop on Information Sharing and Collaborative Security. ACM, 2015.
 - D. Costa, M. Collins, S. Perl, M. Albrethsen, G. Silowash, and D. Spooner, “An ontology for insider threat indicators: Development and application,” in Proc. of the 9th Conference on Semantic Technology for Intelligence, Defense, and Security (STIDS’14), Fairfax, Virginia, USA. CEUR Workshop Proceedings, November 2014, pp. 48–53.
 - Mundie, David A., et al. "An Incident Management Ontology." STIDS. 2014.
 - Mundie, David A., Samuel J. Perl, and C. L. Huth. "Insider Threat Defined: Discovering the Prototypical Case." JoWUA 5.2 (2014): 7-23.
