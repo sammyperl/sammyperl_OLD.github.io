@@ -1,11 +1,11 @@
 # Selected Publications
-- Moore, Andrew P., et al. [The Critical Role of Positive Incentives for Reducing Insider Threats](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=484917). No. CMU/SEI-2016-TR-014. CARNEGIE-MELLON UNIV PITTSBURGH PA PITTSBURGH United States, 2016.
+- Moore, Andrew P., et al. ["The Critical Role of Positive Incentives for Reducing Insider Threats"](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=484917). No. CMU/SEI-2016-TR-014. CARNEGIE-MELLON UNIV PITTSBURGH PA PITTSBURGH United States, 2016.
 - Woods, Bronwyn, Samuel J. Perl, and Brian Lindauer. ["Data mining for efficient collaborative information discovery."](https://dl.acm.org/citation.cfm?doid=2808128.2808130) Proceedings of the 2nd ACM Workshop on Information Sharing and Collaborative Security. ACM, 2015.
-- D. Costa, M. Collins, S. Perl, M. Albrethsen, G. Silowash, and D. Spooner, “An ontology for insider threat indicators: Development and application,” in Proc. of the 9th Conference on Semantic Technology for Intelligence, Defense, and Security (STIDS’14), Fairfax, Virginia, USA. CEUR Workshop Proceedings, November 2014, pp. 48–53.
-- Mundie, David A., et al. "An Incident Management Ontology." STIDS. 2014.
+- D. Costa, M. Collins, S. Perl, M. Albrethsen, G. Silowash, and D. Spooner, [“An ontology for insider threat indicators: Development and application”](An ontology for insider threat indicators: Development and application) in Proc. of the 9th Conference on Semantic Technology for Intelligence, Defense, and Security (STIDS’14), Fairfax, Virginia, USA. CEUR Workshop Proceedings, November 2014, pp. 48–53.
+- Mundie, David A., et al. ["An Incident Management Ontology."](https://resources.sei.cmu.edu/asset_files/ConferencePaper/2014_021_001_426851.pdf) STIDS. 2014.
 - Mundie, David A., Samuel J. Perl, and C. L. Huth. "Insider Threat Defined: Discovering the Prototypical Case." JoWUA 5.2 (2014): 7-23.
-- Robin Ruefle, Audrey Dorofee, David Mundie, Allen D. Householder, Michael Murray, Samuel J. Perl, "Computer Security Incident Response Team Development and Evolution", IEEE Security & Privacy, vol.12, no. 5, pp. 16-26, Sept.-Oct. 2014, doi:10.1109/MSP.2014.89 
-- Mundie, David A., Sam Perl, and Carly L. Huth. "Toward an ontology for insider threat research: Varieties of insider threat definitions." Socio-Technical Aspects in Security and Trust (STAST), 2013 Third Workshop on. IEEE, 2013
+- Robin Ruefle, Audrey Dorofee, David Mundie, Allen D. Householder, Michael Murray, Samuel J. Perl, ["Computer Security Incident Response Team Development and Evolution"](https://ieeexplore.ieee.org/document/6924672), IEEE Security & Privacy, vol.12, no. 5, pp. 16-26, Sept.-Oct. 2014, doi:10.1109/MSP.2014.89 
+- Mundie, David A., Sam Perl, and Carly L. Huth. ["Toward an ontology for insider threat research: Varieties of insider threat definitions."](https://ieeexplore.ieee.org/document/6691366) Socio-Technical Aspects in Security and Trust (STAST), 2013 Third Workshop on. IEEE, 2013
 
 # Selected External Presentations 
 - The Carnegie Mellon University Software Engineering Institute Research Review, (June 2017)
