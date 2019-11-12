@@ -26,9 +26,5 @@
 - [Capturing the Expertise of Cybersecurity Incident Handlers, SEI Podcast, August 2015](http://www.cert.org/podcasts/podcast_episode.cfm?episodeid=443570)
 
 # Selected Tools
-- [New CERT Tool Speeds Artifact Extraction and Analysis.](https://www.sei.cmu.edu/news-events/news/article.cfm?assetid=527156)
-- [Cyobstract Repository](https://github.com/cmu-sei/cyobstract)
-- Short Description:  Cyobstract is a cyber observables extraction tool that uses regular expressions on cyber incident reports. It quickly pulls indicators and other cyber information from these reports. It takes free text as input and provides relevant information for incident response (IR) in a structured format as output.  
-
-- [Cyber Ticket Studio](https://github.com/cmu-sei/Cyber-Ticket-Studio)
-- Short Description: Cyber Ticket Studio (CTS) is a Shiny app that enables you to link cybersecurity incident tickets and view interactive visualizations of the incident data. CTS helps you identify previously unknown connections among reported cybersecurity incidents.
+- [New CERT Tool Speeds Artifact Extraction and Analysis.](https://www.sei.cmu.edu/news-events/news/article.cfm?assetid=527156.) The [Cyobstract Repository](https://github.com/cmu-sei/cyobstract) is on the SEI Github Page. Cyobstract is a cyber observables extraction tool that uses regular expressions on cyber incident reports. It quickly pulls indicators and other cyber information from these reports. It takes free text as input and provides relevant information for incident response (IR) in a structured format as output.  
+- We built another tool called [Cyber Ticket Studio](https://github.com/cmu-sei/Cyber-Ticket-Studio).  Cyber Ticket Studio (CTS) is a Shiny app that enables you to link cybersecurity incident tickets and view interactive visualizations of the incident data. CTS helps you identify previously unknown connections among reported cybersecurity incidents.
