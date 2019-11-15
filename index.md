@@ -11,7 +11,7 @@
 - The Carnegie Mellon University Software Engineering Institute Research Review, (June 2017)
 - Improving Useful Data Extraction from Cybersecurity Incident Reports, FIRST Conference for Incident Response (June 2017)
 - Measuring Similarity Between Cyber Security Incident Reports, FIRST Conference for Incident Response (June 2017)
-- A Cognitive Study to Discover How Expert Incident Responders Think, FIRST Conference for Incident Response (June 2015)
+- A Cognitive Study to Discover How Expert Incident Responders Think, FIRST Conference for Incident Response (June 2015). [FIRST 2015 Listing](https://www.first.org/conference/2015/program#pa-cognitive-study-to-discover-how-expert-incident-responders-think) [PDF Copy](https://www.first.org/resources/papers/conf2015/first_2015_perl-sam-incidenthandlingfirst-final_20150611.pdf). 
 - Discovering Patterns of Activity in Unstructured Incident Reports at Large Scale, FIRST Conference for Incident Response (June 2015)
 - Building our Insider Threat Ontology, Carnegie Mellon Ontology community group 2014
 - Converting the Incident Management Body of Knowledge to an Ontology, The 3rd International Workshop on Security Ontologies and Taxonomies held in conjunction with the 9th International Conference on Availability, Reliability and Security (ARES 2014), Fribourg, Switzerland (Sept 2014)
