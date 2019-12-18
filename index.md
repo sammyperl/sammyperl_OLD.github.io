@@ -1,4 +1,5 @@
 # Selected Publications
+- Alfageeh et al. ["Assurance for CyberSecurity with Assume-Guarantee Reasoning"] accepted at IEEE UEMCON 2019 (pending publication)
 - Moore, Andrew P., et al. ["The Critical Role of Positive Incentives for Reducing Insider Threats"](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=484917). No. CMU/SEI-2016-TR-014. CARNEGIE-MELLON UNIV PITTSBURGH PA PITTSBURGH United States, 2016.
 - Woods, Bronwyn, Samuel J. Perl, and Brian Lindauer. ["Data mining for efficient collaborative information discovery."](https://dl.acm.org/citation.cfm?doid=2808128.2808130) Proceedings of the 2nd ACM Workshop on Information Sharing and Collaborative Security (WISCS 2015). ACM, 2015.
 - D. Costa, M. Collins, S. Perl, M. Albrethsen, G. Silowash, and D. Spooner, [“An ontology for insider threat indicators: Development and application”](https://resources.sei.cmu.edu/asset_files/ConferencePaper/2014_021_001_426817.pdf) in Proc. of the 9th Conference on Semantic Technology for Intelligence, Defense, and Security (STIDS’14), Fairfax, Virginia, USA. CEUR Workshop Proceedings, November 2014, pp. 48–53.
